@@ -1,0 +1,29 @@
+.quare{
+	width: 400px;
+	height: 200px;
+	background: #ccc;
+	position: absolute;
+    top: 50%;
+    margin-top: -100px;
+    left:50%;
+    margin-left: -200px;
+}
+ .left_top{
+	width: 50px;
+	height: 50px;
+	border-radius: 0 0 50px 0;
+	background-color: #fc0;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.right_button{
+	width: 50px;
+	height: 50px;
+	border-radius: 50px 0 0 0;
+	background-color: #fc0;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	
+}
